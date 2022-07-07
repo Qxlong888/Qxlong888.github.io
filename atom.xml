@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>More interest,less interests</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-07-07T12:53:50.333Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Qxl_17596954811</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大数据综述</title>
+    <link href="http://example.com/2022/07/07/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%BC%E8%BF%B0/"/>
+    <id>http://example.com/2022/07/07/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%BC%E8%BF%B0/</id>
+    <published>2022-07-07T12:49:24.000Z</published>
+    <updated>2022-07-07T12:53:50.333Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;我爱你&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="kafaka" scheme="http://example.com/categories/kafaka/"/>
+    
+    <category term="大数据" scheme="http://example.com/categories/kafaka/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+    <category term="kafak" scheme="http://example.com/tags/kafak/"/>
+    
+    <category term="大数据" scheme="http://example.com/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+</feed>
