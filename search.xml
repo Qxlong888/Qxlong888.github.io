@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>MarkDown</title>
+    <url>/2022/07/07/MarkDown/</url>
+    <content><![CDATA[<hr>
+<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><p><strong>这是加粗的文字</strong><br><em>这是倾斜的文字</em>&#96;<br><em><strong>这是斜体加粗的文字</strong></em><br><del>这是加删除线的文字</del></p>
+<hr>
+<hr>
+<hr>
+<hr>
+]]></content>
+      <categories>
+        <category>写作方法</category>
+      </categories>
+      <tags>
+        <tag>写作方法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>大数据综述</title>
     <url>/2022/07/07/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%BC%E8%BF%B0/</url>
     <content><![CDATA[<hr>
